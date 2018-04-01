@@ -9,3 +9,8 @@ header 1 | header 2
 ---------| --------
 cell 1-A | cell 1-B
 cell 2-A | cell 2-B
+
+list create a list
+* item 1
+* item 2
+* item 3
