@@ -1,4 +1,16 @@
 # hello_world
-Hello World in Golang
+## Hello World in Golang
 
-This is a simple program that prints the classic "Hello, World"
+This is a simple program in **golang** that prints the classic _"Hello, World"_
+
+let's create a table
+
+header 1 | header 2
+---------| --------
+cell 1-A | cell 1-B
+cell 2-A | cell 2-B
+
+list create a list
+* item 1
+* item 2
+* item 3
